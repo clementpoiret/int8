@@ -1,4 +1,4 @@
 baseURL = 'https://int8-9co.pages.dev/'
 languageCode = 'en-us'
 title = 'int8 blog'
-theme = 'nostyleplease'
+theme = 'int8'
