@@ -1,9 +1,3 @@
-[submodule "themes/terminal"]
-	path = themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
-[submodule "themes/nostyleplease"]
-	path = themes/nostyleplease
-	url = https://github.com/hanwenguo/hugo-theme-nostyleplease
 [submodule "themes/int8"]
 	path = themes/int8
 	url = https://github.com/clementpoiret/int8-theme.git
