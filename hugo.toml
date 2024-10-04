@@ -1,4 +1,7 @@
-baseURL = 'https://int8-9co.pages.dev/'
+baseURL = 'https://int8.tech/'
 languageCode = 'en-us'
 title = 'int8 blog'
 theme = 'int8'
+
+[markup.goldmark.renderer]
+  unsafe = true
