@@ -3,5 +3,9 @@ languageCode = 'en-us'
 title = 'int8 blog'
 theme = 'int8'
 
+[module.hugoVersion]
+extended = true
+min = '0.128.0'
+
 [markup.goldmark.renderer]
   unsafe = true
