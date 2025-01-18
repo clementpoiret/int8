@@ -2,6 +2,10 @@ baseURL = 'https://int8.tech/'
 languageCode = 'en-us'
 title = 'int8 blog'
 theme = 'int8'
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
 
 [module]
   [module.hugoVersion]
@@ -39,6 +43,11 @@ theme = 'int8'
     ordered    = false
 
 [params]
+  author = "Clement POIRET"
+  github = "https://github.com/clementpoiret"
+  og_image = "/images/og.png"
+  sitename = "int8 blog"
+  twitter = "@clement_poiret1"
   enableRobotsTXT = true
 
   [params.theme_config]
