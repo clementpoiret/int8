@@ -34,7 +34,8 @@ canonifyURLs = true
     lineNumbersInTable = true
     noClasses          = true
     noHl               = false
-    style              = 'rtt'
+    style              = 'modus-vivendi'
+    # style              = 'rrt'
     tabWidth           = 4
 
   [markup.tableOfContents]
