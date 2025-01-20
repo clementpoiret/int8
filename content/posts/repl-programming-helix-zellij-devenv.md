@@ -1,7 +1,7 @@
 ---
 title: REPL-Driven Programming with Helix, Zellij, and DevEnv
 # date: date '+%Y-%m-%dT%H:%M:%S%:z'
-date: 2025-01-16T16:36:47+02:00
+date: 2025-01-20T16:17:51+01:00
 author: Clement POIRET
 authorTwitter: clement_poiret1
 cover: images/1_repl1.webp
