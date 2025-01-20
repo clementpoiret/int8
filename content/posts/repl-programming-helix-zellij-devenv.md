@@ -7,7 +7,7 @@ authorTwitter: clement_poiret1
 cover: images/1_repl1.webp
 tags: [programming, linux, guide]
 keywords: [python, linux, nixos, guide, interactive]
-description: description
+description: A simple guide to use a REPL with Helix
 showFullContent: false
 readingTime: true
 hideComments: false
