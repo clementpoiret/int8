@@ -4,7 +4,7 @@ title: Rethinking Superintelligence without Language
 date: 2025-03-22T20:14:02+01:00
 author: Clement POIRET
 authorTwitter: clement_poiret1
-cover: images/
+cover: images/3_wittgenstein.webp
 tags: [ai, philosophy]
 keywords: [sapir-whorf, wittgenstein, intelligence]
 description: Language is a model of the world, and all models are wrong, but some are useful.
